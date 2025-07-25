@@ -1,3 +1,5 @@
+package com.example.demo.tests;
+
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -6,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class SeleniumDemoTests {
+public class BingSearchTests {
     private WebDriver driver;
 
     @BeforeEach
