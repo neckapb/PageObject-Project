@@ -1,7 +1,7 @@
-package com.example.demo.tests;
+package demo.tests;
 
-import com.example.demo.pages.MainPage;
-import com.example.demo.pages.ResultsPage;
+import demo.pages.MainPage;
+import demo.pages.ResultsPage;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
